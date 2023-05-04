@@ -1,0 +1,41 @@
+body {
+  background-image: url("4.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.container {
+  width: 500px;
+  margin: 50px auto;
+  padding: 60px;
+  border: 2px solid red; 
+  font-family: arial;
+  font-size: 16px;
+  background-color: white;
+  border-radius: 20px;
+  margin-top:200px;
+}
+h2 {
+  text-align: center;
+}
+.container div {
+  text-align: center;
+  font-family: cursive, fantasy;
+}
+input {
+  width: 350px;
+  padding: 10px;
+}
+button {
+  width: 70px;
+  padding: 10px;
+  margin: 10px;
+  font-size: 16px;
+  background-color: rgb(29, 221, 247);
+  border: none;
+  color: white;
+  border-radius: 10px;
+}
